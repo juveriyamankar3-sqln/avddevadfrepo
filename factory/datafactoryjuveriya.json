@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryjuveriya",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ced70a87-e5d9-4b62-b928-bd7e00f4ea07",
+		"tenantId": "1db44527-88bb-48da-9e8e-cd3ffbe8043c"
+	}
+}
